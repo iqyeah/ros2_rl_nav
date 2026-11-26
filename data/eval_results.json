@@ -1,0 +1,364 @@
+{
+  "summary": {
+    "model": "best_model",
+    "episodes": 50,
+    "success": 45,
+    "collision": 1,
+    "timeout": 4,
+    "success_rate": 0.9,
+    "avg_steps_to_goal": 102.2,
+    "avg_min_clearance": 0.485
+  },
+  "results": [
+    {
+      "scenario": 0,
+      "outcome": "success",
+      "steps": 91,
+      "return": 34.02,
+      "min_clearance": 0.798
+    },
+    {
+      "scenario": 1,
+      "outcome": "success",
+      "steps": 95,
+      "return": 34.55,
+      "min_clearance": 0.564
+    },
+    {
+      "scenario": 2,
+      "outcome": "success",
+      "steps": 112,
+      "return": 37.61,
+      "min_clearance": 0.66
+    },
+    {
+      "scenario": 3,
+      "outcome": "success",
+      "steps": 102,
+      "return": 36.26,
+      "min_clearance": 0.991
+    },
+    {
+      "scenario": 4,
+      "outcome": "success",
+      "steps": 82,
+      "return": 31.46,
+      "min_clearance": 0.625
+    },
+    {
+      "scenario": 5,
+      "outcome": "success",
+      "steps": 76,
+      "return": 29.93,
+      "min_clearance": 0.382
+    },
+    {
+      "scenario": 6,
+      "outcome": "success",
+      "steps": 98,
+      "return": 34.19,
+      "min_clearance": 0.447
+    },
+    {
+      "scenario": 7,
+      "outcome": "collision",
+      "steps": 103,
+      "return": 10.79,
+      "min_clearance": 0.095
+    },
+    {
+      "scenario": 8,
+      "outcome": "success",
+      "steps": 111,
+      "return": 38.27,
+      "min_clearance": 0.306
+    },
+    {
+      "scenario": 9,
+      "outcome": "success",
+      "steps": 111,
+      "return": 32.75,
+      "min_clearance": 0.247
+    },
+    {
+      "scenario": 10,
+      "outcome": "success",
+      "steps": 113,
+      "return": 29.38,
+      "min_clearance": 0.336
+    },
+    {
+      "scenario": 11,
+      "outcome": "success",
+      "steps": 80,
+      "return": 30.92,
+      "min_clearance": 0.825
+    },
+    {
+      "scenario": 12,
+      "outcome": "success",
+      "steps": 94,
+      "return": 32.86,
+      "min_clearance": 0.393
+    },
+    {
+      "scenario": 13,
+      "outcome": "success",
+      "steps": 128,
+      "return": 37.27,
+      "min_clearance": 0.429
+    },
+    {
+      "scenario": 14,
+      "outcome": "success",
+      "steps": 131,
+      "return": 30.54,
+      "min_clearance": 0.28
+    },
+    {
+      "scenario": 15,
+      "outcome": "timeout",
+      "steps": 200,
+      "return": 8.72,
+      "min_clearance": 0.137
+    },
+    {
+      "scenario": 16,
+      "outcome": "success",
+      "steps": 99,
+      "return": 29.73,
+      "min_clearance": 0.335
+    },
+    {
+      "scenario": 17,
+      "outcome": "success",
+      "steps": 90,
+      "return": 33.39,
+      "min_clearance": 0.642
+    },
+    {
+      "scenario": 18,
+      "outcome": "success",
+      "steps": 102,
+      "return": 30.9,
+      "min_clearance": 0.3
+    },
+    {
+      "scenario": 19,
+      "outcome": "success",
+      "steps": 128,
+      "return": 34.29,
+      "min_clearance": 0.292
+    },
+    {
+      "scenario": 20,
+      "outcome": "success",
+      "steps": 132,
+      "return": 39.07,
+      "min_clearance": 0.355
+    },
+    {
+      "scenario": 21,
+      "outcome": "success",
+      "steps": 92,
+      "return": 29.24,
+      "min_clearance": 0.717
+    },
+    {
+      "scenario": 22,
+      "outcome": "success",
+      "steps": 101,
+      "return": 30.77,
+      "min_clearance": 0.317
+    },
+    {
+      "scenario": 23,
+      "outcome": "success",
+      "steps": 95,
+      "return": 30.85,
+      "min_clearance": 0.388
+    },
+    {
+      "scenario": 24,
+      "outcome": "success",
+      "steps": 91,
+      "return": 32.47,
+      "min_clearance": 0.561
+    },
+    {
+      "scenario": 25,
+      "outcome": "success",
+      "steps": 101,
+      "return": 35.65,
+      "min_clearance": 0.331
+    },
+    {
+      "scenario": 26,
+      "outcome": "success",
+      "steps": 90,
+      "return": 28.57,
+      "min_clearance": 1.048
+    },
+    {
+      "scenario": 27,
+      "outcome": "success",
+      "steps": 80,
+      "return": 28.93,
+      "min_clearance": 0.309
+    },
+    {
+      "scenario": 28,
+      "outcome": "success",
+      "steps": 158,
+      "return": 31.64,
+      "min_clearance": 0.159
+    },
+    {
+      "scenario": 29,
+      "outcome": "success",
+      "steps": 116,
+      "return": 30.25,
+      "min_clearance": 0.22
+    },
+    {
+      "scenario": 30,
+      "outcome": "success",
+      "steps": 93,
+      "return": 30.05,
+      "min_clearance": 0.222
+    },
+    {
+      "scenario": 31,
+      "outcome": "success",
+      "steps": 98,
+      "return": 33.34,
+      "min_clearance": 0.564
+    },
+    {
+      "scenario": 32,
+      "outcome": "success",
+      "steps": 113,
+      "return": 37.0,
+      "min_clearance": 0.506
+    },
+    {
+      "scenario": 33,
+      "outcome": "success",
+      "steps": 114,
+      "return": 38.98,
+      "min_clearance": 0.565
+    },
+    {
+      "scenario": 34,
+      "outcome": "success",
+      "steps": 87,
+      "return": 31.58,
+      "min_clearance": 0.854
+    },
+    {
+      "scenario": 35,
+      "outcome": "timeout",
+      "steps": 200,
+      "return": 5.48,
+      "min_clearance": 0.816
+    },
+    {
+      "scenario": 36,
+      "outcome": "timeout",
+      "steps": 200,
+      "return": 13.23,
+      "min_clearance": 0.384
+    },
+    {
+      "scenario": 37,
+      "outcome": "success",
+      "steps": 105,
+      "return": 35.84,
+      "min_clearance": 0.365
+    },
+    {
+      "scenario": 38,
+      "outcome": "success",
+      "steps": 76,
+      "return": 29.0,
+      "min_clearance": 0.524
+    },
+    {
+      "scenario": 39,
+      "outcome": "success",
+      "steps": 108,
+      "return": 36.68,
+      "min_clearance": 0.412
+    },
+    {
+      "scenario": 40,
+      "outcome": "success",
+      "steps": 88,
+      "return": 32.05,
+      "min_clearance": 0.428
+    },
+    {
+      "scenario": 41,
+      "outcome": "success",
+      "steps": 103,
+      "return": 36.84,
+      "min_clearance": 1.452
+    },
+    {
+      "scenario": 42,
+      "outcome": "success",
+      "steps": 122,
+      "return": 39.9,
+      "min_clearance": 0.404
+    },
+    {
+      "scenario": 43,
+      "outcome": "success",
+      "steps": 84,
+      "return": 31.57,
+      "min_clearance": 0.681
+    },
+    {
+      "scenario": 44,
+      "outcome": "timeout",
+      "steps": 200,
+      "return": 1.34,
+      "min_clearance": 0.502
+    },
+    {
+      "scenario": 45,
+      "outcome": "success",
+      "steps": 120,
+      "return": 34.04,
+      "min_clearance": 0.195
+    },
+    {
+      "scenario": 46,
+      "outcome": "success",
+      "steps": 100,
+      "return": 32.13,
+      "min_clearance": 0.415
+    },
+    {
+      "scenario": 47,
+      "outcome": "success",
+      "steps": 119,
+      "return": 36.75,
+      "min_clearance": 0.311
+    },
+    {
+      "scenario": 48,
+      "outcome": "success",
+      "steps": 90,
+      "return": 33.56,
+      "min_clearance": 0.893
+    },
+    {
+      "scenario": 49,
+      "outcome": "success",
+      "steps": 80,
+      "return": 28.74,
+      "min_clearance": 0.261
+    }
+  ]
+}
